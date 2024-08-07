@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Masood-Abbas/Masood-Abbas/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Masood Abbas</h1>
 <h3 align="center">A passionate Mern Stack developer</h3>
 
